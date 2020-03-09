@@ -1,0 +1,80 @@
+restaurant_id,name,area,restaurant_type,rating,votes
+1,Masala Mandi,Sarjapur Road,"['Casual', 'Dining']",4.6,1109
+2,The Big Barbeque,Electronic City,"['Casual', 'Dining']",4.8,5337
+3,Big Pitcher,Sarjapur Road,['Microbrewery'],4.5,214
+4,Aurum Brew Works,Sarjapur Road,['Microbrewery'],4.6,1965
+5,Dr. Sheesha 24 Hours Gastro Pub,"The Sahar Pavilion, Electronic City",['Pub'],4.0,230
+6,Byg Brewski Brewing Company,Sarjapur Road,['Microbrewery'],4.9,23096
+7,URU Brewpark,JP Nagar,['Microbrewery'],4.3,1645
+8,Hoot,Sarjapur Road,['Microbrewery'],4.5,11467
+9,Brahma Brews,JP Nagar,['Microbrewery'],4.9,4026
+10,The Fisherman's Wharf,Sarjapur Road,"['Casual', 'Dining']",4.3,4521
+11,AB's - Absolute Barbecues,BTM,"['Casual', 'Dining']",4.8,7750
+12,The Globe Grub,BTM,"['Casual', 'Dining']",4.7,2441
+14,Stories - The Brew Chapter,BTM,['Microbrewery'],4.8,3828
+15,Shivaji Military Hotel,Jayanagar,"['Quick', 'Bites']",4.2,3410
+16,Meghana Foods,Jayanagar,"['Casual', 'Dining']",4.5,5216
+17,The Pump House,JP Nagar,['Microbrewery'],4.5,2094
+18,Sarjapur Social,Sarjapur Road,['Lounge'],4.5,2598
+19,Deja Vu Buffet Bar,JP Nagar,"['Casual', 'Dining']",4.6,3948
+20,TBC Sky Lounge,HSR,['Bar'],4.9,15775
+21,Barbeque Nation,JP Nagar,"['Casual', 'Dining']",4.9,5695
+22,46 Ounces Brewgarden,Electronic City,['Microbrewery'],4.6,1700
+23,Xochi Bar And Kitchen,Bellandur,['Bar'],4.6,589
+24,BLR Brewing Co.,Electronic City,['Microbrewery'],4.4,488
+25,Vapour Brewpub and Diner,Sarjapur Road,['Microbrewery'],4.6,4776
+26,Fire Station,Electronic City,['Pub'],4.7,2232
+27,Gilly's Restobar,Electronic City,['Pub'],4.6,2990
+28,Hakuna Matata,JP Nagar,"['Casual', 'Dining']",4.4,3177
+29,Mavalli Tiffin Room (MTR),Basavanagudi,"['Quick', 'Bites']",4.4,3196
+30,Stegi - Modern Indian,Jayanagar,"['Casual', 'Dining']",4.4,877
+31,Sattvam,JP Nagar,"['Casual', 'Dining']",4.2,650
+32,Grasshopper,Bannerghatta Road,"['Fine', 'Dining']",4.3,788
+33,House Of Commons,HSR,['Bar'],4.8,5442
+34,Levitate Brewery and Kitchen,JP Nagar,['Microbrewery'],4.6,2168
+35,The Barbecue Kingdom,Electronic City,"['Casual', 'Dining']",4.5,462
+36,eat.fit,HSR,,4.2,1721
+37,Gufha - The President Hotel,"The President Hotel, Jayanagar","['Casual', 'Dining']",4.1,2006
+38,Taaza Thindi,Jayanagar,"['Quick', 'Bites']",4.9,4744
+39,What the Ale?!,Electronic City,['Microbrewery'],4.4,472
+40,Fat Owl,JP Nagar,['Bar'],4.4,504
+41,Go Native,Jayanagar,"['Casual', 'Dining']",4.3,1576
+42,Al Daaz,HSR,"['Casual', 'Dining']",4.3,1358
+43,OPUS Club,"OPUS, Sarjapur Road",['Pub'],4.3,2409
+44,Whattay Kitchen and Brew,Kanakapura Road,['Microbrewery'],4.3,307
+45,Subz,Jayanagar,"['Casual', 'Dining']",4.2,2140
+46,Tipsy Bull - The Bar Exchange,JP Nagar,['Bar'],4.7,1872
+47,Onesta,HSR,"['Casual', 'Dining']",4.4,4765
+48,1522 - The Pub,JP Nagar,['Pub'],4.5,262
+49,Stories,JP Nagar,['Pub'],4.6,4035
+50,By The Peepal,JP Nagar,['Microbrewery'],4.2,539
+51,Brother Barley Brewing Company,HSR,['Microbrewery'],4.3,518
+52,La Casa Brewery And Kitchen,Sarjapur Road,['Microbrewery'],4.5,2908
+53,Broadway - The Gourmet Theatre,HSR,"['Casual', 'Dining']",4.3,1432
+54,Chulha Chauki Da Dhaba,JP Nagar,"['Casual', 'Dining']",4.5,3570
+55,Rural Blues,Sarjapur Road,"['Casual', 'Dining']",4.4,2030
+56,Empire Restaurant,Jayanagar,"['Casual', 'Dining']",4.6,6816
+57,Hammered,HSR,['Bar'],4.4,2152
+58,Shift,HSR,['Lounge'],4.1,2452
+59,The Hidden Home,Sarjapur Road,"['Casual', 'Dining']",4.1,1632
+60,Vidyarthi Bhavan,Basavanagudi,"['Quick', 'Bites']",4.3,4882
+61,E - City Combos,Electronic City,,3.5,14
+62,Village - The Soul of India,"Bangalore Central, JP Nagar","['Casual', 'Dining']",4.0,2538
+63,Habit@,Bellandur,['Bar'],4.4,349
+64,Spice It - Ibis Bengaluru,"Ibis Bengaluru, Marathahalli","['Casual', 'Dining']",4.2,727
+65,The Punjabi Rasoi,Sarjapur Road,"['Casual', 'Dining']",4.2,666
+66,Hangover,HSR,['Bar'],4.3,2124
+67,Basil Bistro,HSR,"['Casual', 'Dining']",4.5,569
+68,Cable Car,Jayanagar,"['Casual', 'Dining']",4.2,1441
+69,Brahmin's Coffee Bar,Basavanagudi,"['Quick', 'Bites']",4.7,2933
+70,Express by ABs,BTM,,3.9,40
+71,Millennials,JP Nagar,['Bar'],4.4,232
+72,Oyster,HSR,"['Casual', 'Dining']",4.5,257
+73,Chutney Chang,Jayanagar,"['Casual', 'Dining']",4.1,2487
+74,Chili's American Grill & Bar,Bellandur,"['Casual', 'Dining']",4.6,2310
+75,LIT Gastro Pub,Jayanagar,['Pub'],4.0,621
+76,Toscano,Jayanagar,"['Casual', 'Dining']",4.3,1333
+77,Indigo X II P,HSR,['Pub'],4.3,1001
+78,Kesariya,JP Nagar,"['Casual', 'Dining']",4.2,1376
+79,Public - The Rooftop Bar And Kitchen,Bannerghatta Road,"['Casual', 'Dining']",4.3,1645
+80,Waffle Cart,BTM,"['Dessert', 'Parlor']",3.8,113
